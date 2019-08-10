@@ -1,6 +1,3 @@
-![Curseforge download count](https://cf.way2muchnoise.eu/full_255053_downloads.svg)   ![Curseforge download count](https://cf.way2muchnoise.eu/packs/255053.svg)
-`![Curseforge download count](https://cf.way2muchnoise.eu/versions/Available%20for_255053_all.svg)
-
 # Bedrock B Gone
 
 ## Issues
