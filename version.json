@@ -1,11 +1,11 @@
 {
-	"homepage": "",
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/bedrock-b-gone",
 	"promos": {
 		"1.12.2-latest": "5.1.11",
 		"1.12.2-recommended": "5.1.11"
 	},
 	"1.12.2": {
-		"5.1.11": "Fixed a debug message that was reporting to the wrong channel."
+		"5.1.11": "Fixed a debug message that was reporting to the wrong channel.",
 		"5.1.10": "Updated forge and added retrogen."
 	}
 }
